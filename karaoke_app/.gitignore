@@ -1,0 +1,14 @@
+# Ignore files in the conda environment folder
+**/karaoke-env
+
+# Ignore downloaded pretrained models
+pretrained_models
+
+# Ignore output files
+**/output
+
+# Ignore VS Code config files
+**/.vscode
+
+# Ignore python bytecode
+**/*.pyc
